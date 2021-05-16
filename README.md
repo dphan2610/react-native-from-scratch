@@ -34,7 +34,7 @@ Verify that you can see QR code on your terminal or browser
 
 - Step 8: Go to your iPhone, download Expo Go app: https://expo.io/client
 
-- Step 9: Open Camera app on your iPhone, and scan the QR code.
+- Step 9: Open Camera app on your iPhone, and scan the QR code in step 7.
 
 
 
