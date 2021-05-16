@@ -8,16 +8,16 @@ Dev operating system: macOS Catalina, version 10.15.6
 
 - Step 2: Download Node.js (macOS Installer): https://nodejs.org/en/download/
 
-Step 3: Open the downloaded .pkg file, and follow instructions on screen to install
+- Step 3: Open the downloaded .pkg file, and follow instructions on screen to install
 
-Step 4: Open Terminal and enter:
+- Step 4: Open Terminal and enter:
 
 ```
 node -v
 ```
 Verify the version is latest (for example, v14.17.0)
 
-Step 5: Install Expo CLI (using Terminal):
+- Step 5: Install Expo CLI (using Terminal):
 ```
 npm install -g expo-cli
 ```
