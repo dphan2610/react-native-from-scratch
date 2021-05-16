@@ -1,4 +1,4 @@
-# react-native-from-scratch
+# react-native-tutorial-from-scratch
 
 Distilled step-by-step guide to build and deploy React Native apps on Android and iOS.
 
