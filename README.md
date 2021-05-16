@@ -34,5 +34,13 @@ sudo npm install -g expo-cli
 
 
 
+
+
+
+
+
+
+
+-----------------
 References:
 - https://reactnative.dev/docs/environment-setup
