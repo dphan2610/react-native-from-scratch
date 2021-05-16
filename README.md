@@ -20,6 +20,16 @@ Verify the version is latest (for example, v14.17.0)
 sudo npm install -g expo-cli
 ```
 
+- Step 6: Create your React Native project:
+```
+expo init LegendaryProject
+```
+
+- Step 7: cd to your project, then start:
+```
+cd LegendaryProject
+npm start
+```
 
 
 
