@@ -15,3 +15,4 @@ Step 4: Open Terminal and enter:
 ```
 node -v
 ```
+Verify the version is latest (for example, v14.17.0)
