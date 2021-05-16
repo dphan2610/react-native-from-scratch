@@ -2,7 +2,7 @@
 
 Distilled step-by-step guide to build and deploy React Native apps on Android and iOS.
 
-- Step 1: Buy a Mac computer (Macbook, iMac, Mac Pro)
+- Step 1: Buy a Mac computer (Macbook, iMac, Mac Pro), and buy an iPhone
 
 - Step 2: Download Node.js (macOS Installer): https://nodejs.org/en/download/
 
@@ -31,6 +31,7 @@ cd LegendaryProject
 npm start
 ```
 
+- Step 8: Go to your iPhone, download Expo Go app: https://expo.io/client
 
 
 
