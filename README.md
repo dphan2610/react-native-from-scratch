@@ -17,7 +17,7 @@ node -v
 ```
 Verify the version is latest (for example, v14.17.0)
 
-Step 5: Install Expo CLI:
+Step 5: Install Expo CLI (using Terminal):
 ```
 npm install -g expo-cli
 ```
