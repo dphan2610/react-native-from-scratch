@@ -21,3 +21,18 @@ Verify the version is latest (for example, v14.17.0)
 ```
 sudo npm install -g expo-cli
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+- https://reactnative.dev/docs/environment-setup
