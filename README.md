@@ -51,11 +51,13 @@ Build and deploy:
 expo build:ios -t archive
 ```
 
-- Step 5: Download the .ipa file from your Expo
+- Step 5: Go to App Store Connect, click the plus icon and create a New App
 
-- Step 6: Install Transporter on your Mac
+- Step 6: Download the .ipa file from your Expo (generated from step 4)
 
-- Step 7: Drop .ipa file in Transporter
+- Step 7: Install Transporter on your Mac
+
+- Step 8: Drop .ipa file in Transporter
 
 
 
