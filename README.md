@@ -51,6 +51,8 @@ Build and deploy:
 expo build:ios -t archive
 ```
 
+- Step 5: Download the .ipa file from your Expo
+
 
 
 
