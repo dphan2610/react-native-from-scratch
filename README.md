@@ -38,7 +38,11 @@ Verify that you can see QR code on your terminal or browser
 
 
 
-
+-----------------------
+Build and deploy:
+```
+expo build:ios -t archive
+```
 
 
 
