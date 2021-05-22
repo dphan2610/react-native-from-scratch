@@ -40,6 +40,9 @@ Verify that you can see QR code on your terminal or browser
 
 -----------------------
 Build and deploy:
+- Step 1: Create an Expo account: https://expo.io/signup
+
+- Step 2:
 ```
 expo build:ios -t archive
 ```
