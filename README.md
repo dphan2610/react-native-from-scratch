@@ -39,7 +39,7 @@ Verify that you can see QR code on your terminal or browser
 
 
 -----------------------
-Build and deploy:
+Build and deploy (iOS):
 - Step 1: Create an Expo account: https://expo.io/signup
 
 - Step 2: Create Apple account: https://appleid.apple.com/account
@@ -61,7 +61,9 @@ expo build:ios -t archive
 
 
 
-
+-----------------------
+Build and deploy (Android):
+- Step 1:
 
 
 
