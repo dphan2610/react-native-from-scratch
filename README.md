@@ -53,6 +53,10 @@ expo build:ios -t archive
 
 - Step 5: Download the .ipa file from your Expo
 
+- Step 6: Install Transporter on your Mac
+
+- Step 7: Drop .ipa file in Transporter
+
 
 
 
