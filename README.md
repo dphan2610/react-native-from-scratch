@@ -42,7 +42,11 @@ Verify that you can see QR code on your terminal or browser
 Build and deploy:
 - Step 1: Create an Expo account: https://expo.io/signup
 
-- Step 2:
+- Step 2: Create Apple account: https://appleid.apple.com/account
+
+- Step 3: Enroll in Apple Developer Program (costs $99)
+
+- Step 4: Run:
 ```
 expo build:ios -t archive
 ```
