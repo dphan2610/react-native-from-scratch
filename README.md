@@ -60,6 +60,20 @@ expo build:ios -t archive
 - Step 8: Drop .ipa file in Transporter
 
 
+-----------------------------------
+Run on Simulator (iOS):
+- Step 1: Run:
+```
+expo build:ios -t simulator
+```
+
+- Step 2: Download the build file from your Expo
+
+- Step 3: Run:
+```
+xcrun simctl install booted <path to .app>
+```
+
 
 -----------------------
 Build and deploy (Android):
