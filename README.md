@@ -69,7 +69,9 @@ expo build:ios -t simulator
 
 - Step 2: Download the build file from your Expo
 
-- Step 3: Run:
+- Step 3: Use xCode to open Simulator
+
+- Step 4: Run:
 ```
 xcrun simctl install booted <path to .app>
 ```
