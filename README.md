@@ -76,7 +76,7 @@ expo build:ios -t simulator
 -----------------------
 Run on Simulator (Android):
 
-- Step 1: Download Android Studio and SDK: https://developer.android.com/studio
+- Step 1: Download and install Android Studio and SDK: https://developer.android.com/studio
 
 - Step 2: Run:
 ```
