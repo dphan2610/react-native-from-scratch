@@ -80,7 +80,7 @@ Run on Simulator (Android):
 expo build:android -t apk
 ```
 
-
+- Step 2: Download the .apk build file from your Expo
 
 
 
