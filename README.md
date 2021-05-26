@@ -75,8 +75,10 @@ expo build:ios -t simulator
 
 -----------------------
 Build and deploy (Android):
-- Step 1:
-
+- Step 1: Run:
+```
+expo build:android -t apk
+```
 
 
 
