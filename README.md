@@ -74,7 +74,7 @@ expo build:ios -t simulator
 - Step 4: Drag and drop the downloaded .app file to the Simulator
 
 -----------------------
-Build and deploy (Android):
+Run on Simulator (Android):
 - Step 1: Run:
 ```
 expo build:android -t apk
