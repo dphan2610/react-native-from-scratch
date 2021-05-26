@@ -85,6 +85,10 @@ expo build:android -t apk
 
 - Step 3: Download the .apk build file from your Expo
 
+- Step 4: Open an emulator from Android Studio, Tools -> AVD Manager
+
+- Step 5: Drop .apk file into emulator
+
 
 
 -----------------
