@@ -62,7 +62,9 @@ expo build:ios -t archive
 
 -----------------------------------
 Run on Simulator (iOS):
-- Step 1: Run:
+- Step 1: Register for developer account on Google Play (costs $25)
+
+- Step 2: Run:
 ```
 expo build:ios -t simulator
 ```
