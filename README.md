@@ -74,6 +74,13 @@ expo build:ios -t simulator
 - Step 4: Drag and drop the downloaded .app file to the Simulator
 
 -----------------------
+Build and deploy (Android)
+- Step 1: Run:
+```
+expo build:android -t app-bundle
+```
+
+-----------------------
 Run on Simulator (Android):
 
 - Step 1: Download and install Android Studio and SDK: https://developer.android.com/studio
