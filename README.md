@@ -98,7 +98,12 @@ expo build:android -t apk
 
 - Step 5: Drop .apk file into emulator
 
+------------------------
+Run on device (Android):
 
+- Step 1: Download adb tool: https://developer.android.com/studio/releases/platform-tools
+
+- Step 2: 
 
 -----------------
 References:
