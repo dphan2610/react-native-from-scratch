@@ -101,9 +101,9 @@ expo build:android -t apk
 ------------------------
 Run on device (Android):
 
-- Step 1: Download adb tool: https://developer.android.com/studio/releases/platform-tools
+- Step 1: Download Expo Go app
 
-- Step 2: 
+- Step 2: Open Expo Go app, and scan QR code
 
 -----------------
 References:
