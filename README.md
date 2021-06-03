@@ -62,9 +62,7 @@ expo build:ios -t archive
 
 -----------------------------------
 Run on Simulator (iOS):
-- Step 1: Register for developer account on Google Play (costs $25)
-
-- Step 2: Run:
+- Step 1: Run:
 ```
 expo build:ios -t simulator
 ```
@@ -77,10 +75,18 @@ expo build:ios -t simulator
 
 -----------------------
 Build and deploy (Android)
-- Step 1: Run:
+- Step 1: Register for developer account on Google Play (costs $25)
+
+- Step 2: Run:
 ```
 expo build:android -t app-bundle
 ```
+
+- Step 3: Download the .apk file from Expo web
+
+- Step 4: Go to Google Play Console, and have fun. Things to remember:
++ Drop .apk file there
++ Enter app details, like description, screenshots, etc.
 
 -----------------------
 Run on Simulator (Android):
