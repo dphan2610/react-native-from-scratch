@@ -1,0 +1,7 @@
+Some notes: 
+  - expo build:ios has been discontinued (January 4, 2023).
+  - New way to init project: 
+      npx create-expo-app MyProject
+      cd AwesomeProject
+      npx expo start
+  - New way to build: EAS CLI
