@@ -1,5 +1,7 @@
 # react-native-tutorial-from-scratch
 
+IMPORTANT NOTE: this is OLD, a lot of things are discontinued, or no longer avaialble.
+
 Distilled step-by-step guide to build and deploy React Native apps on Android and iOS.
 
 - Step 1: Buy a Mac computer (Macbook, iMac, Mac Pro), and buy an iPhone
