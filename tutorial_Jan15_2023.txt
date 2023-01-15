@@ -15,3 +15,11 @@ Login:
   
 Check:
   eas whoami
+
+Configure:
+  eas build:configure
+  
+Build:
+  eas build --platform ios
+  eas build --platform android
+  eas build --platform all
