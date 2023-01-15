@@ -9,3 +9,9 @@ Some notes:
 
 Install EAS:
   sudo npm install -g eas-cli
+
+Login:
+  eas login
+  
+Check:
+  eas whoami
