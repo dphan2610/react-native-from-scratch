@@ -5,3 +5,7 @@ Some notes:
       cd MyProject
       npx expo start
   - New way to build: EAS CLI
+
+
+Install EAS:
+  npm install -g eas-cli
