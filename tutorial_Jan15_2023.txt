@@ -8,4 +8,4 @@ Some notes:
 
 
 Install EAS:
-  npm install -g eas-cli
+  sudo npm install -g eas-cli
